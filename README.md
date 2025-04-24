@@ -13,3 +13,5 @@ Processes
 - [x] Data Cleaning
 - [x] Data Analysis
 - [x] Data Visualization
+
+Check out the notebook [here](https://github.com/TheOlaoluwaMercy/Analysing-NYC-Green-Taxi-Data/blob/main/New%20York%20City%20Green%20Taxi.ipynb)
